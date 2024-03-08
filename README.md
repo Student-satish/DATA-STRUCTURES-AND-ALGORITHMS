@@ -1,2 +1,2 @@
 # DATA-STRUCTURES-AND-ALGORITHMS
-All concepts related to data structures and algorithms are stored in this repository
+All concepts related to data structures and algorithms are stored in this repo
